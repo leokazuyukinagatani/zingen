@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="#">
-      <img src="https://raw.githubusercontent.com/leokazuyukinagatani/zingen/9ac2f9c2f279af93c0fd1ca91829afe694dbb16b/assets/Thumbnail.png" alt="Project Banner">
+      <img src="https://raw.githubusercontent.com/leokazuyukinagatani/zingen/refs/heads/main/assets/Thumbnail.png" alt="Project Banner">
     </a>
   <br />
 

@@ -14,9 +14,17 @@
 
 <h3 align="center">Zingen</h3>
 
-   <div align="center">
-   Construindo este projeto de landing page de aplicativo da formação FullStack da <strong>Rocketseat</strong>
-    </div>
+  <div align="center">
+     Construindo este projeto de landing page de aplicativo da formação FullStack da <strong>Rocketseat</strong>
+  </div>
+
+  <br/>
+  <br/>
+  <div>
+    <a href="https://leokazuyukinagatani.github.io/zingen/" target="_blank">
+      <img src="https://raw.githubusercontent.com/leokazuyukinagatani/zingen/refs/heads/main/assets/acesse-agora.png"/>
+    </a>
+  </div>
 </div>
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>

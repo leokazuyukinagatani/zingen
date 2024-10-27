@@ -1,6 +1,6 @@
 #download {
     .card {
-        padding: 3rem 1.5rem 15rem;
+        padding: 3rem 1.5rem;
         position: relative;
         & > img {
             display: none;
@@ -23,6 +23,8 @@
 
     @media (width >= 23em) {
         .card {
+            padding: 3rem 1.5rem 15rem;
+
             & > img {
                 display: block;
             }
